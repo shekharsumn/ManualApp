@@ -1,8 +1,8 @@
 # manual_app
 
-Manual App: Case Study Project
+Manual App: A Flutter Project
 
-## Getting Started : Setup the flutter enviornment before getting started
+## Setup the flutter enviornment before getting started
 link: https://docs.flutter.dev/get-started/install
 
 ### Task
